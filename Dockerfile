@@ -5,4 +5,4 @@ FROM hshar/webapp
 
 ADD ./index.html /var/www/html
 
-ADD ./Images/github3.jpg /var/www/html
+ADD ./Images/github3.jpg /var/www/html/Images
